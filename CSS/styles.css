@@ -1,0 +1,141 @@
+
+body{
+  margin:0px;
+  text-align: center;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 7%;
+  color: #9CB4CC;
+}
+
+
+p{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-size:1.125rem;
+}
+
+h2{
+  font-family: 'Lato', sans-serif;
+  color: #1F4690;
+}
+
+h3{
+  font-family: 'Lato', sans-serif;
+  color: #1F4690;
+}
+
+.pic{
+  padding-top: 10px;
+  height: 35%;
+}
+
+.cloudmid{
+  position: absolute;
+
+}
+
+.cloudtop{
+  position:absolute;
+  right:350px;
+
+}
+
+.name{
+  font-family: 'Sacramento', cursive;
+  color:#1F4690;
+  font-size: 3.75rem;
+  line-height: 2;
+}
+
+.webdev{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-size: 1.25rem;
+  color:#1F4690;
+  margin:0 ;
+  font-weight: normal;
+}
+
+.programming{
+  width: 20%;
+  float: left;
+  padding-right: 30px;
+}
+
+.chili{
+  width: 20%;
+  float: right;
+  padding-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.aboutMe {
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  padding:0 30px 30px 30px;
+}
+
+.top-container {
+  background-color: #47B5FF;
+  padding-top:  50px;
+}
+
+.bottom-container {
+  padding-top:  30px;
+}
+
+.skills{
+  padding-top: 20px;
+}
+
+
+.footer-link {
+  padding: 12px 12px 12px 0;
+  color: #1F4690;
+}
+
+.contact-me{
+ padding-bottom: 20px;
+}
+
+.logo{
+  width: 70%;
+}
+
+table, td {
+  width: 20%;
+}
+
+
+
+.btn {
+  background: #1F4690;
+  background-image: -webkit-linear-gradient(top, #47B5FF, #2f6de0);
+  background-image: -moz-linear-gradient(top, #47B5FF, #2f6de0);
+  background-image: -ms-linear-gradient(top, #47B5FF, #2f6de0);
+  background-image: -o-linear-gradient(top, #47B5FF, #2f6de0);
+  background-image: linear-gradient(to bottom, #47B5FF, #2f6de0);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  text-shadow: 1px 1px 3px #1a3769;
+  -webkit-box-shadow: 1px 1px 2px #383438;
+  -moz-box-shadow: 1px 1px 2px #383438;
+  box-shadow: 1px 1px 2px #383438;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 4px 9px 4px 9px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #078fe3;
+  text-decoration: none;
+}
