@@ -61,12 +61,14 @@ h3{
   width: 20%;
   float: left;
   padding-right: 30px;
+  padding-top: 17px;
 }
 
 .chili{
   width: 20%;
   float: right;
   padding-left: 30px;
+  padding-top: 30px;
 }
 
 .skill-row{
@@ -78,7 +80,7 @@ h3{
 
 .aboutMe {
   font-family: 'Edu VIC WA NT Beginner', cursive;
-  padding:0 30px 30px 30px;
+  padding:0 40px 30px 40px;
 }
 
 .top-container {
